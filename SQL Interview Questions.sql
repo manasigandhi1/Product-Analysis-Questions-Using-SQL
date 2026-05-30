@@ -1,4 +1,4 @@
-# SQL Interview Practice Questions for Product & Data Analytics
+# SQL Interview Practice Questions for Product & Data Analysis
 
 # 1. Find Top 3 Products per Category
 
